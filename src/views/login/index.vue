@@ -96,7 +96,7 @@ const reset = () => {
 .loginBox {
   width: 100vw;
   height: 100vh;
-  background-image: url(~@/assets/login.svg);
+  background-image: url('@/assets/login.svg');
   background-size: 100%;
   display: flex;
   .login {
